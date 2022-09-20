@@ -398,5 +398,8 @@ class vagoneta extends autos {
 }
 
 let vagone = new vagoneta(152365, 'Volkswagen', '1995', 20000000, 8)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c27570fe30f8a4fe039ddbcf315cdf41bbfd88c8
