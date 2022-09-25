@@ -73,11 +73,9 @@ for (let i = 0; i < tamaño; i++) {
 console.log(vector)
 console.log('El numero menor de todos los anteriores es: '+menor)*/
 
-let vector =[],
-tamaño =Math.round((Math.random()*20-10)+10)
-console.log('valor de las variables:'+tamaño)
-for (let i =i < tamaño; i++) {
-    vector[i]=Math.round(Math.random()*100)
-    
-}
+//let vector =[],
+//tamaño =Math.round((Math.random()*20-10)+10)
+//console.log('valor de las variables:'+tamaño)
+//for (let i =i < tamaño; i++) {
+ //   vector[i]=Math.round(Math.random()*100)
 
